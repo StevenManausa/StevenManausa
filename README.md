@@ -8,7 +8,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" width="22px" src="https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_%282017%29.svg#/media/File:YouTube_social_red_squircle_(2017).svg" />][youtube]
+[<img align="left" width="22px" src="https://www.svgrepo.com/download/13671/youtube.svg" />][youtube]
 [<img align="left" alt="StevenManausa | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@ITWithSteven
