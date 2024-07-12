@@ -3,20 +3,16 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Creating Virtual Machines on Microsoft Azure](https://github.com/StevenManausa/Azure/blob/main/README.md)
-- [Masking Internet Traffic (VMs vs. VPNs)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Establishing File/Directory Permissions](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Masking Internet Traffic (VMs vs. VPNs)](https://github.com/StevenManausa/VMs-vs.-VPNs/blob/main/README.md)
+- [Establishing File/Directory Permissions](https://github.com/StevenManausa/Establishing-Permissions/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="StevenManausa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="StevenManausa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/@ITWithSteven
+[linkedin]: https://linkedin.com/in/stevenmanausa
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
