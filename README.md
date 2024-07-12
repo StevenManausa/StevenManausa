@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Deploying Virtual Machines and Networks on Microsoft Azure](https://github.com/StevenManausa/Azure/blob/main/README.md)
-- [Masking Internet Traffic (VMs vs. VPNs)](https://github.com/StevenManausa/VMs-vs.-VPNs/blob/main/README.md)
+- [Simulating a Helpdesk Environment on Microsoft Azure](https://github.com/StevenManausa/VMs-vs.-VPNs/blob/main/README.md)
 - [Establishing File/Directory Permissions](https://github.com/StevenManausa/Establishing-Permissions/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
