@@ -8,8 +8,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="StevenManausa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="StevenManausa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="StevenManausa | YouTube" width="22px" src="https://www.svgrepo.com/svg/13671/youtube" />][youtube]
+[<img align="left" alt="StevenManausa | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@ITWithSteven
 [linkedin]: https://linkedin.com/in/stevenmanausa
