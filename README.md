@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Creating Virtual Machines on Microsoft Azure](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Creating Virtual Machines on Microsoft Azure](https://github.com/StevenManausa/Azure/blob/main/README.md)
 - [Masking Internet Traffic (VMs vs. VPNs)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Establishing File/Directory Permissions](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
