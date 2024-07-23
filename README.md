@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Steven! <br/>PC Builder, IT Hobbyist, and <a href="https://www.youtube.com/@ITWithSteven">YouTuber</a></h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Personal IT Projects:</h2>
 
 - [Deploying Virtual Machines on Microsoft Azure](https://github.com/StevenManausa/Azure/blob/main/README.md)
 - [Setting up osTicket/Handling Live Tickets](https://github.com/StevenManausa/VMs-vs.-VPNs/blob/main/README.md)
