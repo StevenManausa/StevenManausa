@@ -3,8 +3,8 @@
 <h2>👨‍💻 Personal IT Projects:</h2>
 
 - [Deploying Virtual Machines on Microsoft Azure](https://github.com/StevenManausa/Azure/blob/main/README.md)
-- [Setting up osTicket/Handling Live Tickets](https://github.com/StevenManausa/VMs-vs.-VPNs/blob/main/README.md)
-- [Creating Domain Controllers in Windows Server 2022](https://github.com/StevenManausa/Establishing-Permissions/blob/main/README.md)
+- [Setting up osTicket/Handling Live Tickets](https://github.com/StevenManausa/osTicket/blob/main/README.md)
+- [Creating Domain Controllers in Windows Server 2022](https://github.com/StevenManausa/Domain-Controllers/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
